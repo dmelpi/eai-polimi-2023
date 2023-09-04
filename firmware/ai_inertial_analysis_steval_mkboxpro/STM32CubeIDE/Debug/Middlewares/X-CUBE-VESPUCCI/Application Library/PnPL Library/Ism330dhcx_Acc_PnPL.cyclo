@@ -1,0 +1,8 @@
+Ism330dhcx_Acc_PnPL.c:67:19:Ism330dhcx_Acc_PnPLAlloc	2
+Ism330dhcx_Acc_PnPL.c:77:9:Ism330dhcx_Acc_PnPLInit	1
+Ism330dhcx_Acc_PnPL.c:87:7:Ism330dhcx_Acc_PnPL_vtblGetKey	1
+Ism330dhcx_Acc_PnPL.c:92:9:Ism330dhcx_Acc_PnPL_vtblGetNCommands	1
+Ism330dhcx_Acc_PnPL.c:97:7:Ism330dhcx_Acc_PnPL_vtblGetCommandKey	1
+Ism330dhcx_Acc_PnPL.c:102:9:Ism330dhcx_Acc_PnPL_vtblGetStatus	2
+Ism330dhcx_Acc_PnPL.c:141:9:Ism330dhcx_Acc_PnPL_vtblSetProperty	1
+Ism330dhcx_Acc_PnPL.c:146:9:Ism330dhcx_Acc_PnPL_vtblExecuteFunction	1
