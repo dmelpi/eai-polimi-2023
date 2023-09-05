@@ -10,4 +10,5 @@ Includes:
 ## python
 Includes: 
 * jupyter notebooks for data analysis
-* HSDatalog SDK wheel v. 2.2.1
+* HSDatalog SDK wheel v.2.2.1
+* HSDPython_SDK v.2.2.1 sources, including examples
